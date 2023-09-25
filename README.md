@@ -15,9 +15,8 @@ Welcome to our Recipe Recommendation Website! This platform is designed to help 
 
 ### Team Details
 1. Aniket Nagpure
-2. Santosh
-3. Ramsundar
-4. Ankita Burad
+2. Gagan BN
+3. Vivek Kumar
 
 
 ### Live Demo and User Flow -
